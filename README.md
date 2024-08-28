@@ -109,14 +109,17 @@ Nas distribuições Linux os programas são distribuídos por meio de pacotes. P
 
 ### Loja de Aplicativos (App Center)
 
+O Ubuntu vém com uma loja de aplicativos instalada. Ela permite instalar aplicativos sem a necessidade de digitar nenhum comando.
 
-
+...
 
 ### Advanced Packaging Tool (APT)
 
 O Advanced Packaging Tool (APT) é o principal gerenciador de pacotes do Ubuntu.
 
 #### Atualizar lista de pacotes
+
+Para que o Advanced Packaging Tool possa instalar e pesquisar por pacotes, é necessário que a sua lista de pacotes esteja atualizada.
 
 Para atualizar a lista de pacotes, no terminal digite:
 
@@ -129,7 +132,7 @@ sudo apt update
 Para pesquisar por um pacote, no terminal, digite:
 
 ```
-sudo apt search <nome-do-pacote>
+apt search '<busca>'
 ```
 
 E uma lista de pacotes aparecerá com o nome de cada pacote (programa) e a sua respectiva descrição.
@@ -147,6 +150,18 @@ sudo apt install <nome-do-pacote-a-ser-instalado>
 Uma mensagem será exibida perguntando se confirma a instalação do pacote escolhido e suas dependências. Basta digitar 's' ou 'y' para confirmar.
 
 E o pacote será instalado.
+
+#### Instalar um arquivo .deb
+
+No Ubuntu quando um pacote não estiver disponível para ser instalado pelos repositórios do Advanced Packaging Tool, é possível baixar através do navegador web um arquivo '.deb'.
+
+Para instalar um arquivo '.deb', no terminal, dentro da pasta onde este arquivo '.deb' está localizado, digite:
+
+```
+sudo apt install ./<nome-do-arquivo.deb>
+```
+
+CUIDADO: ARQUIVOS '.DEB' PODEM CONTER SOFTWARE MALICIOSOS (VÍRUS). BAIXE ARQUIVOS '.DEB' SOMENTE DE FONTES CONFIÁVEIS.
 
 #### Desinstalar pacote
 
@@ -172,13 +187,27 @@ sudo apt upgrade <nome-do-pacote-a-ser-atualizado>
 
 Caso a versão instalada desse pacote esteja desatualizada, uma mensagem será exibida perguntando se confirma a atualização do pacote escolhido. Basta digitar 's' ou 'y' para confirmar.
 
+Ou para atualizar tudo, no terminal, digite:
+
+```
+sudo apt upgrade
+```
+
+Caso a versão instalada de algum pacote instalado esteja desatualizada, uma mensagem será exibida perguntando se confirma a atualização. Basta digitar 's' ou 'y' para confirmar.
+
 ### Snap
 
 O Snap é o gerenciador de pacote secundário do Ubuntu. Ele foi desenvolvido para que pacotes possam ser instalados em diferentes distribuições Linux.
 
 #### Pesquisar pacote
 
-Para pesquisar por um pacote Snap, acesse a [Snap Store](https://snapcraft.io/store) e pesquise pelo pacote desejado.
+Para pesquisar por um pacote, no terminal digite:
+
+```
+snap search '<pesquisa>'
+```
+
+Ou se preferir, pode acessar o site da [Snap Store](https://snapcraft.io/store).
 
 #### Instalar pacote
 
@@ -195,5 +224,79 @@ sudo snap install <nome-do-pacote> --classic
 ```
 
 Na página do pacote Snap possuí no canto superior esquerdo um botão verde escrito 'Install'. Ao clicar nele o comando de instalação de um pacote específico é mostrado. Basta copiar e colar no terminal.
+
+### Flatpak
+
+Outro gerenciador de pacote disponível para o Ubuntu é o Flatpak. O Flatpak, da mesma forma que o Snap, foi desenvolvido para que pacotes possam ser instalados em diferentes distribuições Linux.
+
+Diferente do Snap, o Flatpak não vem instalado por padrão no Ubuntu.
+
+#### Instalando o gerenciador de pacotes Flatpak
+
+Para instalar o Flatpak, no terminal, digite o seguinte comando:
+
+```
+sudo apt install -y flatpak
+```
+
+#### Integrando o Flatpak à loja de aplicativos
+
+O Flatpak pode ser integrado com a loja de aplicativos do Ubuntu. Para isso, no terminal, digite o seguinte comando:
+
+```
+sudo apt install -y gnome-software-plugin-flatpak
+```
+
+#### Adicionando repositório do FlatHub
+
+O FlatHub é um repositório comunitário onde vários pacotes são distribuídos. Nele é possível encontrar vários programas para serem instalados.
+
+Para adicionar este repositório, no terminal, digite o seguinte comando:
+
+```
+sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+```
+
+#### Pesquisando por um pacote Flatpak
+
+Para pesquisar por um pacote Flatpak, no terminal, digite o seguinte comando:
+
+```
+flatpak search '<pesquisa>'
+```
+
+Ou se preferir, acesse o [Flathub](https://flathub.org/).
+
+#### Instalando um pacote Flatpak
+
+Para instalar um pacote Flatpak, no terminal, digite o seguinte comando:
+
+```
+sudo flatpak install <nome-do-pacote>
+```
+
+CUIDADO: OS PACOTES DO FLATPAK SÃO MANTIDOS PELA COMUNIDADE.
+
+#### Desinstalando um pacote Flatpak
+
+Para desinstalar um pacote Flatpak, no terminal, digite o seguinte comando:
+
+```
+sudo flatpak uninstall <nome-do-pacote>
+```
+
+#### Atualizando pacotes Flatpak
+
+Para atualizar um pacote Flatpak, no terminal, digite o seguinte comando:
+
+```
+sudo flatpak update <nome-do-pacote>
+```
+
+Ou para atualizar tudo, no terminal, digite o seguinte comando:
+
+```
+sudo flatpak update
+```
 
 ## Configuração do sistema operacional
