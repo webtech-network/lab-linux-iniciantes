@@ -217,6 +217,8 @@ Para instalar um pacote, no terminal, digite o seguinte comando:
 sudo snap install <nome-do-pacote>
 ```
 
+CUIDADO: AO INSTALAR PACOTES SNAP, VERIFIQUE SE O AUTOR DO PACOTE É VERIFICADO. PACOTES NÃO VERIFICADOS PODEM CONTER MALWARE.
+
 Ou
 
 ```
@@ -275,7 +277,7 @@ Para instalar um pacote Flatpak, no terminal, digite o seguinte comando:
 sudo flatpak install <nome-do-pacote>
 ```
 
-CUIDADO: OS PACOTES DO FLATPAK SÃO MANTIDOS PELA COMUNIDADE.
+CUIDADO: OS PACOTES DO FLATPAK SÃO MANTIDOS PELA COMUNIDADE. ALGUNS DELES PODEM CONTER MALWARE.
 
 #### Desinstalando um pacote Flatpak
 
