@@ -10,7 +10,31 @@ O download de arquivos comprimidos deve ser feito no site do desenvolvedor.
 
 ## Extração do arquivo comprimido
 
-TODO
+### Interface gráfica
+
+### Linha de comando
+
+#### Arquivos '.zip'
+
+Para extraír um arquivo '.zip' no Linux, no terminal, na pasta onde ele foi baixado, digite o seguinte comando:
+
+```
+unzip <nome-do-arquivo.zip>
+```
+
+Para executar o comando 'unzip' é necessário ter o pacote 'unzip' instalado no sistema. Para instalá-lo, basta digitar o seguinte comando no terminal:
+
+```
+sudo apt install unzip
+```
+
+#### Arquivos '.tar.xz', '.tar.gz' e 'tar.bz'
+
+Para extrair um aquivo '.tar.xz' no Linux, no terminal, na pasta onde ele foi baixado, digite o seguinte comando:
+
+```
+tar -xf <nome-do-arquivo>
+```
 
 ## Criação de links simbólicos
 
