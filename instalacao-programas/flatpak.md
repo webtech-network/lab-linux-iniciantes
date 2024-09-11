@@ -52,7 +52,7 @@ Para instalar um pacote Flatpak, no terminal, digite o seguinte comando:
 sudo flatpak install <nome-do-pacote>
 ```
 
-**Cuidado: Alguns pacotes do flatpak não são oficiais (são mantidos pela comunidade). Eles podem ser infectados por malware (vírus). Use por sua conta e risco.**
+**Cuidado: Alguns pacotes do flatpak não são oficiais (não são mantidos pelo desenvolvedor do software, são mantidos pela comunidade). Eles podem ser infectados por malware (vírus). Use por sua conta e risco.**
 
 ### Desinstalar um pacote Flatpak
 
