@@ -101,12 +101,4 @@ Mais informações da especificação de arquivos '.desktop' em: https://specifi
 
 Exemplos de programas que podem ser instalados por meio do download e extração de arquivos comprimidos.
 
-[Oracle Java JDK](https://www.oracle.com/java/technologies/downloads/)
-
-[Visual Studio Code](https://code.visualstudio.com/Download)
-
-[Mozilla Firefox](https://www.mozilla.org/pt-BR/firefox/all/)
-
 [WinRAR](https://www.win-rar.com/download.html)
-
-Alguns dos programas listados também podem ser instalados por outros métodos de instalação.
