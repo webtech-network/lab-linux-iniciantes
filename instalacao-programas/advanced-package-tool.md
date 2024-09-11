@@ -48,7 +48,7 @@ Para instalar um arquivo '.deb', no terminal, dentro da pasta onde este arquivo 
 sudo apt install ./<nome-do-arquivo.deb>
 ```
 
-CUIDADO: ARQUIVOS '.DEB' PODEM CONTER SOFTWARE MALICIOSOS (VÍRUS). BAIXE ARQUIVOS '.DEB' SOMENTE DE FONTES CONFIÁVEIS.
+**Cuidado: Arquivos '.deb' podem conter malware (vírus). Baixe arquivos '.deb' somente de fontes confiáveis.**
 
 ### Desinstalar pacote
 
@@ -62,7 +62,7 @@ Caso o pacote a ser desinstalado esteja instalado na sua máquina, uma mensagem 
 
 E o pacote ser desinstalado.
 
-CUIDADO: DESINSTALAR PACOTES QUE FAZEM PARTE DA BASE DO SISTEMA PODE DESTRUIR O SISTEMA OPERACIONAL.
+**Cuidado: Desinstalar pacotes que fazem parte da base do sistema pode destruir o sistema operacional.**
 
 ### Atualizar pacote
 
@@ -130,6 +130,23 @@ sudo apt install gcc-c++
 sudo apt install git
 ```
 
+#### Oracle Java JDK 22
+
+Arquivo '.deb': [jdk-22_linux-x64_bin.deb](https://download.oracle.com/java/22/latest/jdk-22_linux-x64_bin.deb)
+
+Comando de instalação:
+
+```
+apt install ./jdk-22_linux-x64_bin.deb
+```
+
+Download e instalação:
+
+```
+curl -L -O https://download.oracle.com/java/22/latest/jdk-22_linux-x64_bin.deb
+sudo apt install ./jdk-22_linux-x64_bin.deb
+```
+
 ### Utilitários
 
 #### VLC Media Player
@@ -168,8 +185,25 @@ sudo apt install calibre
 sudo apt install okular
 ```
 
-#### Steam:
+#### Steam
 
 ```
 sudo apt install steam
+```
+
+#### Google Chrome Stable
+
+Arquivo '.deb': [google-chrome-stable_current_amd64.deb](https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb)
+
+Comando de instalação:
+
+```
+apt install ./google-chrome-stable_current_amd64.deb
+```
+
+Download e instalação:
+
+```
+curl -L -O https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
