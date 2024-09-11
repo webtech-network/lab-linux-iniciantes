@@ -4,7 +4,9 @@ Em alguns casos específicos, a única forma de instalar um determinado programa
 
 ## Download do arquivo comprimido
 
-TODO
+O download de arquivos comprimidos deve ser feito no site do desenvolvedor.
+
+**CUIDADO: Arquivos comprimidos, podem conter malware (vírus). Baixe arquivos comprimidos somente de fontes confiáveis.**
 
 ## Extração do arquivo comprimido
 
