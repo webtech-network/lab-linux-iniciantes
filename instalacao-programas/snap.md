@@ -36,7 +36,7 @@ Exemplo:
 sudo snap install spotify
 ```
 
-CUIDADO: AO INSTALAR PACOTES SNAP, VERIFIQUE SE O AUTOR DO PACOTE É VERIFICADO. PACOTES NÃO VERIFICADOS PODEM CONTER MALWARE.
+**Cuidado: Ao instalar pacotes Snap, verifique se o autor do pacote é verificado. Pacotes de desenvolvedores não verificados podem conter (ou terem sido infectados por) malware (vírus). Use por sua conta e risco.**
 
 ### Atualizar pacote
 
