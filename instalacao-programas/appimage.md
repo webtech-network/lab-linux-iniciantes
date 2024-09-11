@@ -8,6 +8,8 @@ O download de executáveis AppImages deve ser feito no site do desenvolvedor.
 
 Para encontrar por AppImages, basta acessar: https://appimage.github.io/apps/
 
+**CUIDADO: Arquivos '.AppImage', como qualquer outro arquivo executável, podem conter malware (vírus). Baixe arquivos '.AppImage' somente de fontes confiáveis.**
+
 ## Executando AppImages
 
 ### Interface gráfica
