@@ -28,8 +28,23 @@ Para instalar o programa, basta clicar no botão 'Instalar' ('Install') em verde
 
 Legenda: Exemplo de página de programa, com o programa sendo instalado.
 
+## Listagem de aplicativos instalados
+
+Para listar os aplicativos instalados, na barra de navegação (no canto esquerdo), clique em 'Manage' (Gerenciar), e uma página com os aplicativos instalados aparecerá.
+
+<img src="../Imagens/VirtualBox_Ubuntu 1_16_09_2024_14_45_48.png" alt="Menu de gerenciamento de aplicativos. Nela é mostrado uma janela com uma barra de pesquisa, uma barra de navegação e o conteúdo principal. Na barra pesquisa tem uma caixa de texto com o título: 'Search for apps' (Pesquisar por apps). Na barra de navegação, contém os botões: 'Explore' (Explorar), 'Featured' (Destaque), 'Productivity' (Produtividade), 'Development' (Desenvolvimento), 'Games' (Jogos). E na área de conteúdo principal, contém o título 'Manage', o texto 'Check for available updates, update your apps, and manage the status of all you apps. Em baixo contém o subtítulo 'Updates available (7)', e embaixo os botões 'Check for updates' e 'Update all'. Em baixo contém 5 cards. O primeiro card contém o título 'core22', a versão '20240400', 'Updated 145 days', '78 MB'. O segundo card contém o título 'firefox', a versão '125.0.2-1', 'Updated 145 days', '283 MB'. O terceiro card contém o título 'snap-store', a versão '0+git.1419621', 'Updated 145 days', '11 MB'. O quarto card contém o título 'snapd', versão '2.62', 'Updated 145 days', '41 MB'. E o último card contém o título 'snapd-desktop-integration', a versão '0.9'. Todos os cards contém os botões 'Update' e '...'.">
+
+Legenda: Menu de gerenciamento de aplicativos.
+
+Nessa página será mostrado todos os aplicativos instalados. E caso algum aplicativo esteja desatualizado, será mostrada a opção para atualizá-lo.
+
 ## Desinstalação de aplicativo
 
-Para desinstalar um aplicativo, basta procurá-lo na barra de busca, ou listá-lo 
+Para desinstalar um aplicativo, basta procurá-lo na barra de busca, ou listá-lo no menu de gerenciamento de aplicativos.
+
+Ao encontrar o aplicativo que deseja desinstalar, basta clicar no seu card, e a sua página abrirá.
+
 
 ## Atualização de aplicativo
+
+Para atualizar um aplicativo, basta procurá-lo na barra de busca, ou listá-lo no menu de gerenciamento de aplicativos.
