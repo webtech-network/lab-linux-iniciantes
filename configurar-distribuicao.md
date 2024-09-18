@@ -31,3 +31,13 @@ Para instalar extensões, acesse: https://extensions.gnome.org
 [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 
 [Bing Wallpaper](https://extensions.gnome.org/extension/1262/bing-wallpaper-changer/)
+
+## Ativar atualizações automáticas em 2º plano
+
+É possível ativar atualizações automáticas software em 2º plano, de modo que quem estiver utilizando o computador não vai perceber que o sistema e os programas estão sendo atualizados.
+
+Para isso, basta instalar o pacote ```unattended-upgrades```, por meio do gerenciador de pacotes APT:
+
+```
+sudo apt install unattended-upgrades
+```
