@@ -24,6 +24,10 @@ Legenda: Exemplo de página de programa
 
 Para instalar o programa, basta clicar no botão 'Instalar' ('Install') em verde.
 
+<img src="../Imagens/VirtualBox_Ubuntu 1_16_09_2024_14_45_17.png" alt="Exemplo de página de programa. Nele é mostrado uma janela com uma barra de pesquisa, uma barra de navegação e o conteúdo principal. Na barra de pesquisa, na caixa de texto, foi digitado 'Intellij'. Na barra de navegação, contém os botões: 'Explore' (Explorar), 'Featured' (Destaque), 'Productivity' (Produtividade), 'Development' (Desenvolvimento), 'Games' (Jogos). E na área de conteúdo principal contém o título 'IntelliJ IDEA Community Edition', o subtítulo 'jetbrains' com o símbolo de verificado, o sub-subtítulo 'Development', e o conteúdo: Na primeira linha em negrito: 'Channel' e ao lado um menu de seleção com a opção 'latest/stable 2024.2.1' selecionada, e á direita o botão 'Install' com um indicador de carregamento redondo. Em baixo 'Confinement': 'classic', 'Download size': '963.79 MB', 'License': 'Apache-2.0', 'Version': '2024-2.1', 'Published': 'Aug 29, 2024', 'Links': ['Developer website', 'Contact jetbrains']. E em baixo, em negrito 'Gallery'. Em baixo contém parte da captura de tela do programa.">
+
+Legenda: Exemplo de página de programa, com o programa sendo instalado.
+
 ## Desinstalação de aplicativo
 
 Para desinstalar um aplicativo, basta procurá-lo na barra de busca, ou listá-lo 
