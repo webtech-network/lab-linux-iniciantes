@@ -32,6 +32,8 @@ Para instalar extensões, acesse: https://extensions.gnome.org
 
 [Bing Wallpaper](https://extensions.gnome.org/extension/1262/bing-wallpaper-changer/)
 
+[Hibernate Status Button](https://extensions.gnome.org/extension/755/hibernate-status-button/)
+
 ## Ativar atualizações automáticas em 2º plano
 
 É possível ativar atualizações automáticas software em 2º plano, de modo que quem estiver utilizando o computador não vai perceber que o sistema e os programas estão sendo atualizados.
