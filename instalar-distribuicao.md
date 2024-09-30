@@ -4,7 +4,7 @@
 
 Antes de executar a instalação da distribuição Ubuntu, faça backup de todos os dados do seu computador para uma mídia externa.
 
-TODOS OS DADOS DO COMPUTADOR ONDE SERÁ REALIZADA A INSTALAÇÃO SERÃO APAGADOS.
+**TODOS OS DADOS DO COMPUTADOR ONDE SERÁ REALIZADA A INSTALAÇÃO SERÃO APAGADOS.**
 
 ## STEP 1 - Baixar o Ubuntu
 
@@ -44,7 +44,7 @@ Legenda: Captura de tela do programa que grava o Ventoy no disco.
 
 Selecione o disco (pendrive) que deseja gravar. E clique em Install.
 
-TODOS OS DADOS DESSE DISCO SERÃO APAGADOS.
+**TODOS OS DADOS DESSE DISCO SERÃO APAGADOS.**
 
 Uma janela com uma mensagem de confirmação será aberta. Clique em 'Sim'.
 
@@ -88,7 +88,7 @@ Em 'Choose your language' (Escolha o seu idioma), escolha "Português (Brasil)"
 
 Caso deseja instalar o Ubuntu junto ao Windows, basta ao particionar o disco marcar a opção
 
-OS DADOS DO COMPUTADOR SERÃO APAGADOS.
+**OS DADOS DO COMPUTADOR SERÃO APAGADOS.**
 
 Após ter instalado a distribuição Linux Ubuntu, desligue o computador e ejete o pendrive.
 
