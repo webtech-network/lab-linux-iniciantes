@@ -11,8 +11,8 @@ Como instalar e configurar uma distribuição Linux em sua máquina.
 
 ## Tutoriais
 
-[Instalação da Distribuição](instalar-distribuicao.md)
+[Instalação da Distribuição](desktop/instalar-distribuicao.md)
 
-[Instalação de Programas](instalacao-programas/instalacao-programas.md)
+[Instalação de Programas](desktop/instalacao-programas/instalacao-programas.md)
 
-[Configurar a Distribuição](configurar-distribuicao.md)
+[Configurar a Distribuição](desktop/configurar-distribuicao.md)
