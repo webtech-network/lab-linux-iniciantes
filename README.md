@@ -1,20 +1,43 @@
-# Laboratório de Linux para iniciantes
+# Laboratório de Linux para Iniciantes
 
-Como instalar e configurar uma distribuição Linux em sua máquina.
+Laboratório de como instalar, configurar e utilizar distribuições Linux para quem nunca utilizou Linux.
+
+Neste tutorial a distribuição linux utilizada é o Ubuntu. A escolha dessa distribuição se deve a sua popularidade e
+facilidade de uso. Uma vez tendo dominado o Ubuntu, pode-se migrar para qualquer outra distribuição Linux.
 
 ## Tecnologias utilizadas
 
+Tecnologias utilizadas neste laboratório.
+
 <div style="display: flex; gap: 10px;">
-<img width="50px" src="icones/Canonical%20Ubuntu.svg" alt="Logo do Ubuntu">
-<img width="50px" src="icones/Ventoy.png" alt="Logo do Ventoy">
+    <img width="50px" src="icones/Canonical_Ubuntu.svg" alt="Logo da distribuição Linux Ubuntu"> 
+    <img width="50px" src="icones/snapcraft_db_brandmark_4x.webp" alt="Logo da Snap Store">
+    <img width="50px" src="icones/Flatpak_Logo.svg" alt="Logo do Flatpak">
+    <img width="50px" src="icones/appimage-logo3.svg" alt="Logo do AppImage">
 </div>
 
-## Tutoriais
+## Onde Aplicar
 
-### Linux Desktop
+Este projeto pode ser aplicado em diversas situações:
+- Quando se deseja aprender a utilizar Linux.
+- Quando não se tem conhecimento prévio de Linux.
 
-[Instalação da Distribuição](desktop/instalar-distribuicao.md)
+## Roadmap
 
-[Instalação de Programas](desktop/instalacao-programas/README.md)
+### STEP 1 - Instalação da Distribuição
 
-[Configurar a Distribuição](desktop/configurar-distribuicao.md)
+### STEP 2 - Instalação dos Programas
+
+### STEP 3 - Configuração da Distribuição
+
+### STEP 4 - Dicas de Utilização
+
+## Contato
+
+Henrique Mendonça Castelar Campos - [henriquemendonacastelar@gmail.com](mailto:henriquemendonacastelar@gmail.com)
+
+GitHub: [github.com/Henriquemcc](https://github.com/Henriquemcc)
+
+## License
+
+Este projeto é licenciado sob a [MIT License](https://mit-license.org/) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
