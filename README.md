@@ -5,8 +5,8 @@ Como instalar e configurar uma distribuição Linux em sua máquina.
 ## Tecnologias utilizadas
 
 <div style="display: flex; gap: 10px;">
-<img width="50px" src="Icones/Canonical%20Ubuntu.svg" alt="Logo do Ubuntu">
-<img width="50px" src="Icones/Ventoy.png" alt="Logo do Ventoy">
+<img width="50px" src="icones/Canonical%20Ubuntu.svg" alt="Logo do Ubuntu">
+<img width="50px" src="icones/Ventoy.png" alt="Logo do Ventoy">
 </div>
 
 ## Tutoriais
