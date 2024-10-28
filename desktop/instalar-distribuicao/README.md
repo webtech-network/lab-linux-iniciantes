@@ -34,6 +34,8 @@ Acesse a página de download do Ventoy em: https://www.ventoy.net/en/download.ht
 Caso o seu sistema operacional seja o Windows, clique no link 'ventoy-1.0.99-windows.zip'. E o arquivo
 'ventoy-1.0.99-windows.zip' será baixado.
 
+<img src="../../imagens/arquivos_ventoy_windows.png" alt="Captura de tela da janela do Windows Explorer exibindo os arquivos do Ventoy. Nessa janela contém uma barra superior, uma barra lateral e uma área principal. Na área principal contém as pastas: 'boot', 'plugin', 'ventoy', 'altexe', e os arquivos: 'FOR_X64_ARM.txt', 'Ventoy2Disk.exe', 'VentoyPlugson.exe', 'VentoyVlnk.exe'. Na barra superior contém o caminho 'Computador\Downloads\ventoy-1.0.99-windows\ventoy-1.0.99">
+
 Caso esteja em uma máquina com Linux, clique no link 'ventoy-1.0.99-linux.tar.gz'. E o arquivo
 'ventoy-1.0.99-linux.tar.gz' será baixado.
 
