@@ -29,55 +29,55 @@ de cada ferramenta
 
 #### Opção 1 - Ventoy
 
-Acesse a página de download do Ventoy em: https://www.ventoy.net/en/download.html
+1. Acesse a página de download do Ventoy em: https://www.ventoy.net/en/download.html
 
 <img src="../../imagens/pagina_download_ventoy.png" alt="Captura de tela da página de download do Ventoy. Nela contém o título 'Ventoy', e a seção 'Binary'. Na seção 'Binary' contém os links 'ventoy-1.0.99-windows.zip','ventoy-1.0.99-linux.tar.gz', 'ventoy-1.0.99-livecd.iso'.">
 
 ##### Windows
 
-Caso o seu sistema operacional seja o Windows, clique no link 'ventoy-1.0.99-windows.zip'. E o arquivo
+2. Caso o seu sistema operacional seja o Windows, clique no link 'ventoy-1.0.99-windows.zip'. E o arquivo
 'ventoy-1.0.99-windows.zip' será baixado. Extraia o arquivo baixado.
 
-Após extraír os arquivos do Ventoy, na pasta 'ventoy-1.0.99', execute o arquivo executável 'Ventoy2Disk.exe'.
+3. Após extraír os arquivos do Ventoy, na pasta 'ventoy-1.0.99', execute o arquivo executável 'Ventoy2Disk.exe'.
 
 <img src="../../imagens/arquivos_ventoy_windows.png" alt="Captura de tela da janela do Windows Explorer exibindo os arquivos do Ventoy. Nessa janela contém uma barra superior, uma barra lateral e uma área principal. Na área principal contém as pastas: 'boot', 'plugin', 'ventoy', 'altexe', e os arquivos: 'FOR_X64_ARM.txt', 'Ventoy2Disk.exe', 'VentoyPlugson.exe', 'VentoyVlnk.exe'. Na barra superior contém o caminho 'Computador\Downloads\ventoy-1.0.99-windows\ventoy-1.0.99">
 
 Legenda: Captura de tela da janela do Windows Explorer exibindo os arquivos do Ventoy.
 
-Ao executar o 'Ventoy2Disk.exe', uma janela se abrirá com as opções para instalar o Ventoy no pendrive.
+4. Ao executar o 'Ventoy2Disk.exe', uma janela se abrirá com as opções para instalar o Ventoy no pendrive.
 
 <img src="../../imagens/ventoy_2_disk_windows.png" alt="Captura de tela do programa Ventoy2Disk. Nela contém uma janela com um programa com o título 'Ventoy2Disk X86'. Na barra de menus, contém os menus: 'Option' e 'Language'. Na parte principal contém as seções 'Device', 'Ventoy in Package', 'Ventoy In Device' e 'Status', e os botões 'Install' e 'Update'. Na seção 'Device' contém uma lista com os dispositivos que podem ser gravados, neste caso está selecinado o 'E: [16GB] Kingston DataTraveler 2.0'. E um botão com o icone de atualizar. Na seção 'Ventoy In Package contém a versão do Ventoy '1.0.99 exFAT MBR'. A seção 'Ventoy In Device' está vazia. E a seção 'Status' contém 'READY' e uma barra de progresso vazia. Em baixo do programa contém os links 'Donate' e 'www.ventoy.net'">
 
 Legenda: Captura de tela do programa Ventoy2Disk.
 
-Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
+5. Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
 
 Após instalar o Ventoy no pendrive, duas partições serão montadas no Windows Explorer: 'Ventoy' e 'VTOYEFI'.
 
 <img src="../../imagens/particao_ventoy_windows.png"/>
 
-Copie o arquivo 'ubuntu-24.04.1-desktop-amd64.iso' para dentro da partição 'Ventoy'.
+6. Copie o arquivo 'ubuntu-24.04.1-desktop-amd64.iso' para dentro da partição 'Ventoy'.
 
 Legenda: Captura de tela do Windows Explorer mostrando a partição 'Ventoy'. Note no canto esquerdo a partição 'VTOYEFI'.
 
 ##### Linux
 
-Caso esteja em uma máquina com Linux, clique no link 'ventoy-1.0.99-linux.tar.gz'. E o arquivo
+2. Caso esteja em uma máquina com Linux, clique no link 'ventoy-1.0.99-linux.tar.gz'. E o arquivo
 'ventoy-1.0.99-linux.tar.gz' será baixado.
 
-Após extraír o arquivo 'ventoy-1.0.99-linux.tar.gz', abra o arquivo executável 'VentoyGUI.x86_64'.
+3. Após extraír o arquivo 'ventoy-1.0.99-linux.tar.gz', abra o arquivo executável 'VentoyGUI.x86_64'.
 
 <img src="../../imagens/arquivos_ventoy_linux.png" alt="Captura de tela da janela do Gnome Files no Linux exibindo os arquivos do Ventoy. Nessa janela contém uma barra superior, uma barra lateral e uma área principal. Na área principal contém as pastas: 'boot', 'plugin', 'tool', 'ventoy', 'WebUI', e os arquivos: 'CreatePersistentImg.sh', 'ExtendPersistentImg.sh', 'README, 'Ventoy2Disk.sh', 'VentoyGUI.aarch64', 'VentoyGUI.i386', 'VentoyGUI.mips64el', 'VentoyGUI.x86_64', 'VentoyPlugson.sh', 'VentoyVlnk.sh', 'VentoyWeb.sh'. Na barra superior contém o caminho 'Pasta Pessoal/Downloads/ventoy-1.0.99-linux/ventoy-1.0.99'. Na barra lateral contém os acessos rápidos para 'Recentes', 'Favorito', 'Pasta Pessoal', 'Documentos', 'Imagens', 'Musica', 'Videos', 'Lixeira'.">
 
 Legenda: Captura de tela da janela do Gnome Files no Linux exibindo os arquivos do Ventoy.
 
-Ao executar o 'VentoyGUI.x86_64', uma janela se abrirá com as opções para instalar o Ventoy no pendrive.
+4. Ao executar o 'VentoyGUI.x86_64', uma janela se abrirá com as opções para instalar o Ventoy no pendrive.
 
 <img src="../../imagens/ventoy_2_disk_linux.png" alt="Captura de tela do programa Ventoy2Disk. Nela contém uma janela com um programa com o título 'Ventoy2Disk'. Na barra de menus, contém os menus: 'Option' e 'Language'. Na parte principal contém as seções 'Device', 'Ventoy in Package', 'Ventoy In Device' e 'Status', e os botões 'Install' e 'Update'. Na seção 'Device' contém uma lista com os dispositivos que podem ser gravados, neste caso está selecinado o 'sdb [16GB] Kingston DataTraveler 2.0 (USB)'. E um botão com o icone de atualizar. Na seção 'Ventoy In Package contém a versão do Ventoy '1.0.99 MBR'. A seção 'Ventoy In Device' está vazia. E a seção 'Status' contém 'READY' e uma barra de progresso vazia. Em baixo do programa contém os links 'Donate' e 'www.ventoy.net'">
 
 Legenda: Captura de tela do programa Ventoy2Disk.
 
-Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
+5. Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
 
 Após instalar o Ventoy no pendrive, a partição 'Ventoy' será montada no Files:
 
@@ -85,47 +85,47 @@ Após instalar o Ventoy no pendrive, a partição 'Ventoy' será montada no File
 
 Legenda: Captura de tela do Files do Linux mostrando a partição 'Ventoy'.
 
-Copie o arquivo 'ubuntu-24.04.1-desktop-amd64.iso' para dentro da partição 'Ventoy'.
+6. Copie o arquivo 'ubuntu-24.04.1-desktop-amd64.iso' para dentro da partição 'Ventoy'.
 
 #### Opção 2 - Rufus (somente Windows)
 
-Acesse a página de download do Rufus em: https://rufus.ie/pt_BR/
+1. Acesse a página de download do Rufus em: https://rufus.ie/pt_BR/
 
 <img src="../../imagens/pagina_download_rufus.png" alt="Captura de tela da página de download do Rufus. Nela contém o título: 'Rufus'; o logo, que é o símbolo de um pendrive; o subtítulo: 'Crie drives USB inicializáveis de forma fácil'; e a captura de tela do programa Rufus. A captura de tela do programa rufus é uma janela cujo título é 'Rufus 3.20.1929'. Essa janela contém três áreas: 'Propriedades do Drive', 'Opções de formatação' e 'Status'. Na área 'Propriedades do Drive', contém o 'Dispositivo' e em baixo deste, uma barra de seleção 'Windows 11 22H2 (F:) [8 GB].' Em baixo da barra de seleção 'Windows 11 22H2 (F:) [8 GB]', contém o texto: 'Seleção de Boot' e em baixo deste, a barra de seleção 'Windows 11 22H2.iso'; a barra de seleção 'Windows 11 22H2.iso' é seguida do botão 'Selecionar'. Em baixo da barra de seleção 'Windows 11 22H2.iso', contém contém o texto 'Opções de Imagem', e em baixo deste, a barra de seleção 'Instalação padrão do Windows'. Em baixo da barra de seleção 'Instalação padrão do Windows', contém os textos: Esquema de partição, e embaixo deste a barra de seleção 'GPT'; a barra de seleção 'Instalação padrão do Windows' é seguida de 'Sistema de Destino', e embaixo deste 'UEFI (não CSM). E embaixo da barra de seleção 'GPT', contém o um botão no formato de seta para baixo com o texto à direita 'Exibir propriedades avançadas do drive'. Na área 'Opções de formatação', contém o texto 'Nome do volume', e embaixo deste a entrada de texto escrita 'Windows 11 22H2'. Embaixo da entrada de texto escrita 'Windows 11 22H2', contém o texto 'Sistema de arquivos', e embaixo deste a entrada de texto 'NTFS', 'Sistema de arquivos' é seguido do texto 'Tamanho do cluster', e embaixo deste a entrada de texto escrita '4096 bytes (Padrão)'. E embaixo da entrada de texto 'NTFS' contém um botão no formato de seta para cima com o texto 'Esconder opções avançadas de formação'. Em baixo deste botão no formato de seta, contém uma caixa de seleção (marcada) cuja descrição é 'Formatação rápida', em baixo disso, a caixa de seleção (marcada) cuja descrição é 'Criar arquivos de nome estendido e ícone'. E em baixo disso, contém a caixa de seleção (não marcada) cuja descrição é 'Procurar blocos defeituosos'. Á direita desta caixa de seleção, contém a barra de seleção '1 passada'. Na área de 'Status' contém uma barra de progresso verde escrito 'Pronto'. No canto inferior contém os botões: Símbolo de internet, Símbolo de exclamação, Símbolo de configuração, outro símbolo de status, 'Iniciar' e 'Fechar'">
 
-Em 'Download', clique no link 'rufus-4.6.exe'. E o arquivo 'rufus-4.6.exe' será baixado.
+2. Em 'Download', clique no link 'rufus-4.6.exe'. E o arquivo 'rufus-4.6.exe' será baixado.
 
 <img src="../../imagens/download_pagina_download_rufus.png"/>
 
-Execute o arquivo baixado. E uma janela se abrirá.
+3. Execute o arquivo baixado. E uma janela se abrirá.
 
 <img src="../../imagens/rufus_windows.png"/>
 
-Em 'Dispositivo', selecione o dispositivo USB que deseja gravar a imagem.
+4. Em 'Dispositivo', selecione o dispositivo USB que deseja gravar a imagem.
 
-Depois, clique em selecionar, e selecione o arquivo 'ubuntu-24.04.1-desktop-amd64.iso' baixado.
+5. Depois, clique em selecionar, e selecione o arquivo 'ubuntu-24.04.1-desktop-amd64.iso' baixado.
 
-E no final, clique em 'Iniciar', e a imagem de instalação será gravada no pendrive.
+6. E no final, clique em 'Iniciar', e a imagem de instalação será gravada no pendrive.
 
 #### Opção 3 - Balena Etcher
 
-Acesse a página de download do Balena Etcher em: https://etcher.balena.io/#download-etcher
+1. Acesse a página de download do Balena Etcher em: https://etcher.balena.io/#download-etcher
 
 <img src="../../imagens/pagina_download_balena_etcher.png"/>
 
-Clique no link 'Download' correspondente ao seu sistema operacional.
+2. Clique no link 'Download' correspondente ao seu sistema operacional.
 
-Execute o arquivo baixado.
+3. Execute o arquivo baixado.
 
 <img src="../../imagens/balena_etcher_windows.png"/>
 
 Legenda: Captura de tela do Balena Etcher.
 
-Clique em 'Flash from file' e selecione o arquivo 'ubuntu-24.04.1-desktop-amd64.iso'. 
+4. Clique em 'Flash from file' e selecione o arquivo 'ubuntu-24.04.1-desktop-amd64.iso'. 
 
-Depois, clique em 'Select target', e selecione o dispositivo USB que deseja gravar a imagem.
+5. Depois, clique em 'Select target', e selecione o dispositivo USB que deseja gravar a imagem.
 
-E no final, clique em 'Flash!'.
+6. E no final, clique em 'Flash!'.
 
 ### STEP 3 - Inicializar imagem de instalação
 
