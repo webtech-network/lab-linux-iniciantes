@@ -145,9 +145,17 @@ No computador onde deseja instalar o Ubuntu, siga os seguintes passos:
 
 E a imagem de instalação do Ubuntu será inicializada.
 
+### STEP 4 - Instalar a distribuição
+
+Caso a tela do GRUB apareça, selecione com as setas do teclado 'Try or Install Ubuntu', e pressione ENTER.
+
+<img src="../../imagens/ubuntu_inicializacao_grub.png"/>
+
+Legenda: Tela do GRUB.
+
+E a tela de inicialização do Ubuntu aparecerá.
+
 <img src="../../imagens/ubuntu_inicializacao.png"/>
 
 Legenda: Tela de inicialização do Ubuntu.
-
-### STEP 4 - Instalar a distribuição
 
