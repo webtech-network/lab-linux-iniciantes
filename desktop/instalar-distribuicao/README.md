@@ -44,11 +44,13 @@ Após extraír os arquivos do Ventoy, na pasta 'ventoy-1.0.99', execute o arquiv
 
 Legenda: Captura de tela da janela do Windows Explorer exibindo os arquivos do Ventoy.
 
-Ao executar o 'Ventoy2Disk.exe', uma janela se abrirá com as opções para instalar o Ventoy no pendrive. Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
+Ao executar o 'Ventoy2Disk.exe', uma janela se abrirá com as opções para instalar o Ventoy no pendrive.
 
 <img src="../../imagens/ventoy_2_disk_windows.png" alt="Captura de tela do programa Ventoy2Disk. Nela contém uma janela com um programa com o título 'Ventoy2Disk X86'. Na barra de menus, contém os menus: 'Option' e 'Language'. Na parte principal contém as seções 'Device', 'Ventoy in Package', 'Ventoy In Device' e 'Status', e os botões 'Install' e 'Update'. Na seção 'Device' contém uma lista com os dispositivos que podem ser gravados, neste caso está selecinado o 'E: [16GB] Kingston DataTraveler 2.0'. E um botão com o icone de atualizar. Na seção 'Ventoy In Package contém a versão do Ventoy '1.0.99 exFAT MBR'. A seção 'Ventoy In Device' está vazia. E a seção 'Status' contém 'READY' e uma barra de progresso vazia. Em baixo do programa contém os links 'Donate' e 'www.ventoy.net'">
 
 Legenda: Captura de tela do programa Ventoy2Disk.
+
+Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
 
 Após instalar o Ventoy no pendrive, duas partições serão montadas no Windows Explorer: 
 
@@ -63,11 +65,15 @@ Após extraír o arquivo 'ventoy-1.0.99-linux.tar.gz', abra o arquivo executáve
 
 Legenda: Captura de tela da janela do Gnome Files no Linux exibindo os arquivos do Ventoy.
 
-Ao executar o 'VentoyGUI.x86_64', uma janela se abrirá com as opções para instalar o Ventoy no pendrive. Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
+Ao executar o 'VentoyGUI.x86_64', uma janela se abrirá com as opções para instalar o Ventoy no pendrive.
 
 <img src="../../imagens/ventoy_2_disk_linux.png" alt="Captura de tela do programa Ventoy2Disk. Nela contém uma janela com um programa com o título 'Ventoy2Disk'. Na barra de menus, contém os menus: 'Option' e 'Language'. Na parte principal contém as seções 'Device', 'Ventoy in Package', 'Ventoy In Device' e 'Status', e os botões 'Install' e 'Update'. Na seção 'Device' contém uma lista com os dispositivos que podem ser gravados, neste caso está selecinado o 'sdb [16GB] Kingston DataTraveler 2.0 (USB)'. E um botão com o icone de atualizar. Na seção 'Ventoy In Package contém a versão do Ventoy '1.0.99 MBR'. A seção 'Ventoy In Device' está vazia. E a seção 'Status' contém 'READY' e uma barra de progresso vazia. Em baixo do programa contém os links 'Donate' e 'www.ventoy.net'">
 
 Legenda: Captura de tela do programa Ventoy2Disk.
+
+Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
+
+Após instalar o Ventoy no pendrive, duas partições serão montadas no Files:
 
 #### Opção 2 - Rufus (somente Windows)
 
