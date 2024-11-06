@@ -50,6 +50,8 @@ Ao executar o 'Ventoy2Disk.exe', uma janela se abrirá com as opções para inst
 
 Legenda: Captura de tela do programa Ventoy2Disk.
 
+Após instalar o Ventoy no pendrive, duas partições serão montadas no Windows Explorer: 
+
 ##### Linux
 
 Caso esteja em uma máquina com Linux, clique no link 'ventoy-1.0.99-linux.tar.gz'. E o arquivo
