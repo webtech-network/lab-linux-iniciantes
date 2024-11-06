@@ -73,7 +73,13 @@ Legenda: Captura de tela do programa Ventoy2Disk.
 
 Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
 
-Após instalar o Ventoy no pendrive, duas partições serão montadas no Files:
+Após instalar o Ventoy no pendrive, a partição 'Ventoy' será montada no Files:
+
+<img src="../../imagens/particao_ventoy_linux.png">
+
+Legenda: Captura de tela do Files do Linux mostrando a partição 'Ventoy'.
+
+Copie o arquivo 'ubuntu-24.04.1-desktop-amd64.iso' para dentro da partição 'Ventoy'.
 
 #### Opção 2 - Rufus (somente Windows)
 
