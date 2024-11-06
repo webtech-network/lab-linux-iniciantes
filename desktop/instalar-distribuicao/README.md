@@ -181,3 +181,7 @@ Legenda: Ubuntu com o programa de instalação com o título 'Acessibilidade'.
 Caso o seu computador tenha sido comprado no Brasil, selecione o layout 'Português (Brasil)'. Caso o teclado de seu computador tenha outro layout selecione esse layout ou clique em 'Detectar'.
 
 E no final na caixa de texto 'Digite aqui para testar o seu teclado', digite as teclas do seu teclado, e verifique se elas estão aparecendo corretamente.
+
+<img src="../../imagens/ubuntu_instalador_layout_teclado.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título 'Layout do Teclado'.
