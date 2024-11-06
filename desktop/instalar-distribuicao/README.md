@@ -147,7 +147,7 @@ E a imagem de instalação do Ubuntu será inicializada.
 
 ### STEP 4 - Instalar a distribuição
 
-Caso a tela do GRUB apareça, selecione com as setas do teclado 'Try or Install Ubuntu', e pressione ENTER.
+1. Caso a tela do GRUB apareça, selecione 'Try or Install Ubuntu', e pressione ENTER.
 
 <img src="../../imagens/ubuntu_inicializacao_grub.png"/>
 
@@ -159,3 +159,22 @@ E a tela de inicialização do Ubuntu aparecerá.
 
 Legenda: Tela de inicialização do Ubuntu.
 
+O Ubuntu inicializará e uma janela escrito 'Welcome to Ubuntu' abrirá.
+
+<img src="../../imagens/ubuntu_instalador_idioma.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título 'Welcome to Ubuntu'.
+
+2. Selecione o idioma 'Português do Brasil', e clique em 'Próximo'.
+
+<img src="../../imagens/ubuntu_instalador_idioma_portugues.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título 'Boas-Vindas ao Ubuntu' em Português do Brasil.
+
+3. Em opções de acessibilidade, caso não possua nenhuma necessidade de acessibilidade, clique em 'Próximo'.
+
+<img src="../../imagens/ubuntu_instalador_acessibilidade.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título 'Acessibilidade'.
+
+4. 
