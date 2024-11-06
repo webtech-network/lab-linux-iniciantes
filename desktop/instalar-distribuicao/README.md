@@ -59,11 +59,17 @@ Caso esteja em uma máquina com Linux, clique no link 'ventoy-1.0.99-linux.tar.g
 
 <img src="../../imagens/arquivos_ventoy_linux.png" alt="Captura de tela da janela do Gnome Files no Linux exibindo os arquivos do Ventoy. Nessa janela contém uma barra superior, uma barra lateral e uma área principal. Na área principal contém as pastas: 'boot', 'plugin', 'tool', 'ventoy', 'WebUI', e os arquivos: 'CreatePersistentImg.sh', 'ExtendPersistentImg.sh', 'README, 'Ventoy2Disk.sh', 'VentoyGUI.aarch64', 'VentoyGUI.i386', 'VentoyGUI.mips64el', 'VentoyGUI.x86_64', 'VentoyPlugson.sh', 'VentoyVlnk.sh', 'VentoyWeb.sh'. Na barra superior contém o caminho 'Pasta Pessoal/Downloads/ventoy-1.0.99-linux/ventoy-1.0.99'. Na barra lateral contém os acessos rápidos para 'Recentes', 'Favorito', 'Pasta Pessoal', 'Documentos', 'Imagens', 'Musica', 'Videos', 'Lixeira'.">
 
-#### Opção 2 - Rufus
+#### Opção 2 - Rufus (somente Windows)
 
 Acesse a página de download do Rufus em: https://rufus.ie/pt_BR/
 
 <img src="../../imagens/pagina_download_rufus.png" alt="Captura de tela da página de download do Rufus. Nela contém o título: 'Rufus'; o logo, que é o símbolo de um pendrive; o subtítulo: 'Crie drives USB inicializáveis de forma fácil'; e a captura de tela do programa Rufus. A captura de tela do programa rufus é uma janela cujo título é 'Rufus 3.20.1929'. Essa janela contém três áreas: 'Propriedades do Drive', 'Opções de formatação' e 'Status'. Na área 'Propriedades do Drive', contém o 'Dispositivo' e em baixo deste, uma barra de seleção 'Windows 11 22H2 (F:) [8 GB].' Em baixo da barra de seleção 'Windows 11 22H2 (F:) [8 GB]', contém o texto: 'Seleção de Boot' e em baixo deste, a barra de seleção 'Windows 11 22H2.iso'; a barra de seleção 'Windows 11 22H2.iso' é seguida do botão 'Selecionar'. Em baixo da barra de seleção 'Windows 11 22H2.iso', contém contém o texto 'Opções de Imagem', e em baixo deste, a barra de seleção 'Instalação padrão do Windows'. Em baixo da barra de seleção 'Instalação padrão do Windows', contém os textos: Esquema de partição, e embaixo deste a barra de seleção 'GPT'; a barra de seleção 'Instalação padrão do Windows' é seguida de 'Sistema de Destino', e embaixo deste 'UEFI (não CSM). E embaixo da barra de seleção 'GPT', contém o um botão no formato de seta para baixo com o texto à direita 'Exibir propriedades avançadas do drive'. Na área 'Opções de formatação', contém o texto 'Nome do volume', e embaixo deste a entrada de texto escrita 'Windows 11 22H2'. Embaixo da entrada de texto escrita 'Windows 11 22H2', contém o texto 'Sistema de arquivos', e embaixo deste a entrada de texto 'NTFS', 'Sistema de arquivos' é seguido do texto 'Tamanho do cluster', e embaixo deste a entrada de texto escrita '4096 bytes (Padrão)'. E embaixo da entrada de texto 'NTFS' contém um botão no formato de seta para cima com o texto 'Esconder opções avançadas de formação'. Em baixo deste botão no formato de seta, contém uma caixa de seleção (marcada) cuja descrição é 'Formatação rápida', em baixo disso, a caixa de seleção (marcada) cuja descrição é 'Criar arquivos de nome estendido e ícone'. E em baixo disso, contém a caixa de seleção (não marcada) cuja descrição é 'Procurar blocos defeituosos'. Á direita desta caixa de seleção, contém a barra de seleção '1 passada'. Na área de 'Status' contém uma barra de progresso verde escrito 'Pronto'. No canto inferior contém os botões: Símbolo de internet, Símbolo de exclamação, Símbolo de configuração, outro símbolo de status, 'Iniciar' e 'Fechar'">
+
+Em 'Download', clique no link 'rufus-4.6.exe'. E o arquivo 'rufus-4.6.exe' será baixado.
+
+<img src="../../imagens/download_pagina_download_rufus.png"/>
+
+Execute o arquivo baixado. E uma janela se abrirá.
 
 #### Opção 3 - Balena Etcher
 
