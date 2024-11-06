@@ -185,3 +185,13 @@ E no final na caixa de texto 'Digite aqui para testar o seu teclado', digite as 
 <img src="../../imagens/ubuntu_instalador_layout_teclado.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título 'Layout do Teclado'.
+
+##### STEP 4.5 - Em conexão com à Internet, configure a sua conexão com a Internet.
+
+Caso o seu computador tenha uma placa de rede wifi, selecione o nome da rede wifi que deseja utilizar para conectar com a Internet.
+
+Caso o seu computador tenha conexão cabeada, marque a opção 'Usar conexão via cabo'.
+
+Caso não tenha conectividade com a Internet, marque a opção 'Não quero conectar a internet neste momento'.
+
+<img src="../../imagens/ubuntu_instalador_conectividade_internet.png"/>
