@@ -177,4 +177,8 @@ Legenda: Ubuntu com o programa de instalação com o título 'Boas-Vindas ao Ubu
 
 Legenda: Ubuntu com o programa de instalação com o título 'Acessibilidade'.
 
-4. 
+4. Em layout do teclado, selecione o layout do seu teclado.
+
+Caso o seu computador tenha sido comprado no Brasil, selecione o layout 'Português (Brasil)'. Caso o teclado de seu computador tenha outro layout selecione esse layout ou clique em 'Detectar'.
+
+E no final na caixa de texto 'Digite aqui para testar o seu teclado', digite as teclas do seu teclado, e verifique se elas estão aparecendo corretamente.
