@@ -83,6 +83,12 @@ Execute o arquivo baixado. E uma janela se abrirá.
 
 <img src="../../imagens/rufus_windows.png"/>
 
+Em 'Dispositivo', selecione o dispositivo USB que deseja gravar a imagem.
+
+Depois, clique em selecionar, e selecione o arquivo 'ubuntu-24.04.1-desktop-amd64.iso' baixado.
+
+E no final clique em 'Iniciar', e a imagem de instalação será gravada no pendrive.
+
 #### Opção 3 - Balena Etcher
 
 ### STEP 3 - Inicializar imagem de instalação
