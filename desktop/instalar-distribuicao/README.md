@@ -105,9 +105,27 @@ Em 'Dispositivo', selecione o dispositivo USB que deseja gravar a imagem.
 
 Depois, clique em selecionar, e selecione o arquivo 'ubuntu-24.04.1-desktop-amd64.iso' baixado.
 
-E no final clique em 'Iniciar', e a imagem de instalação será gravada no pendrive.
+E no final, clique em 'Iniciar', e a imagem de instalação será gravada no pendrive.
 
 #### Opção 3 - Balena Etcher
+
+Acesse a página de download do Balena Etcher em: https://etcher.balena.io/#download-etcher
+
+<img src="../../imagens/pagina_download_balena_etcher.png"/>
+
+Clique no link 'Download' correspondente ao seu sistema operacional.
+
+Execute o arquivo baixado.
+
+<img src="../../imagens/balena_etcher_windows.png"/>
+
+Legenda: Captura de tela do Balena Etcher.
+
+Clique em 'Flash from file' e selecione o arquivo 'ubuntu-24.04.1-desktop-amd64.iso'. 
+
+Depois, clique em 'Select target', e selecione o dispositivo USB que deseja gravar a imagem.
+
+E no final, clique em 'Flash!'.
 
 ### STEP 3 - Inicializar imagem de instalação
 
