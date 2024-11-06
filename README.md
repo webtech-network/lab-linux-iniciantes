@@ -26,9 +26,15 @@ Este projeto pode ser aplicado em diversas situações:
 
 ### STEP 1 - Instalação da Distribuição
 
+[Instalar distribuição](desktop/instalar-distribuicao/README.md)
+
 ### STEP 2 - Instalação dos Programas
 
+[Instalar programas](desktop/instalar-programas/README.md)
+
 ### STEP 3 - Configuração da Distribuição
+
+[Configurar distribuição](desktop/configurar-distribuicao/README.md)
 
 ### STEP 4 - Dicas de Utilização
 
