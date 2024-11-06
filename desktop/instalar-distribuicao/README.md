@@ -57,7 +57,17 @@ Após instalar o Ventoy no pendrive, duas partições serão montadas no Windows
 Caso esteja em uma máquina com Linux, clique no link 'ventoy-1.0.99-linux.tar.gz'. E o arquivo
 'ventoy-1.0.99-linux.tar.gz' será baixado.
 
+Após extraír o arquivo 'ventoy-1.0.99-linux.tar.gz', abra o arquivo executável 'VentoyGUI.x86_64'.
+
 <img src="../../imagens/arquivos_ventoy_linux.png" alt="Captura de tela da janela do Gnome Files no Linux exibindo os arquivos do Ventoy. Nessa janela contém uma barra superior, uma barra lateral e uma área principal. Na área principal contém as pastas: 'boot', 'plugin', 'tool', 'ventoy', 'WebUI', e os arquivos: 'CreatePersistentImg.sh', 'ExtendPersistentImg.sh', 'README, 'Ventoy2Disk.sh', 'VentoyGUI.aarch64', 'VentoyGUI.i386', 'VentoyGUI.mips64el', 'VentoyGUI.x86_64', 'VentoyPlugson.sh', 'VentoyVlnk.sh', 'VentoyWeb.sh'. Na barra superior contém o caminho 'Pasta Pessoal/Downloads/ventoy-1.0.99-linux/ventoy-1.0.99'. Na barra lateral contém os acessos rápidos para 'Recentes', 'Favorito', 'Pasta Pessoal', 'Documentos', 'Imagens', 'Musica', 'Videos', 'Lixeira'.">
+
+Legenda: Captura de tela da janela do Gnome Files no Linux exibindo os arquivos do Ventoy.
+
+Ao executar o 'VentoyGUI.x86_64', uma janela se abrirá com as opções para instalar o Ventoy no pendrive. Em 'device', selecione o pendrive que deseja instalar o Ventoy. E depois clique em 'Install'.
+
+<img src="../../imagens/ventoy_2_disk_linux.png" alt="Captura de tela do programa Ventoy2Disk. Nela contém uma janela com um programa com o título 'Ventoy2Disk'. Na barra de menus, contém os menus: 'Option' e 'Language'. Na parte principal contém as seções 'Device', 'Ventoy in Package', 'Ventoy In Device' e 'Status', e os botões 'Install' e 'Update'. Na seção 'Device' contém uma lista com os dispositivos que podem ser gravados, neste caso está selecinado o 'sdb [16GB] Kingston DataTraveler 2.0 (USB)'. E um botão com o icone de atualizar. Na seção 'Ventoy In Package contém a versão do Ventoy '1.0.99 MBR'. A seção 'Ventoy In Device' está vazia. E a seção 'Status' contém 'READY' e uma barra de progresso vazia. Em baixo do programa contém os links 'Donate' e 'www.ventoy.net'">
+
+Legenda: Captura de tela do programa Ventoy2Disk.
 
 #### Opção 2 - Rufus (somente Windows)
 
