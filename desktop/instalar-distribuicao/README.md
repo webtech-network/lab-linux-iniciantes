@@ -81,6 +81,8 @@ Em 'Download', clique no link 'rufus-4.6.exe'. E o arquivo 'rufus-4.6.exe' será
 
 Execute o arquivo baixado. E uma janela se abrirá.
 
+<img src="../../imagens/rufus_windows.png"/>
+
 #### Opção 3 - Balena Etcher
 
 ### STEP 3 - Inicializar imagem de instalação
