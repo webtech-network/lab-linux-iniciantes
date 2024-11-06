@@ -129,5 +129,25 @@ E no final, clique em 'Flash!'.
 
 ### STEP 3 - Inicializar imagem de instalação
 
+No computador onde deseja instalar o Ubuntu, siga os seguintes passos:
+
+1. Desligue o computador.
+
+2. Insira o pendrive em uma porta USB.
+
+3. Ligue o computador.
+
+4. Pressione a tecla que exibe os dispositivos para boot (Esta tecla é específica para cada modelo de computador. Geralmente é F12 ou F8. Caso não saiba, pesquise na Internet).
+
+5. Na tela de boot selecione o pendrive, e pressione ENTER.
+
+6. Caso tenha gravado o Ventoy no pendrive, selecione 'ubuntu-24.04.1-desktop-amd64.iso'.
+
+E a imagem de instalação do Ubuntu será inicializada.
+
+<img src="../../imagens/ubuntu_inicializacao.png"/>
+
+Legenda: Tela de inicialização do Ubuntu.
+
 ### STEP 4 - Instalar a distribuição
 
