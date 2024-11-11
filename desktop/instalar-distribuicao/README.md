@@ -245,3 +245,7 @@ Caso deseja realizar o particionamento manual (mais avançado), marque a opção
 <img src="../../imagens/ubuntu_instalador_tipo_instalacao_disco.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Tipo de instalação'.
+
+<img src="../../imagens/ubuntu_instalador_tipo_instalacao_disco_particionamento_manual.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: 'Particionamento manual'.
