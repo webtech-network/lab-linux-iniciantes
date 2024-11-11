@@ -255,3 +255,9 @@ Legenda: Ubuntu com o programa de instalação com o título: 'Particionamento m
 <img src="../../imagens/ubuntu_instalador_configurar_conta.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Configurar sua conta'.
+
+##### STEP 4.13 - Em 'Selecione seu fuso horário', clique no mapa a região do seu fuso horário. E clique em 'Próximo'.
+
+<img src="../../imagens/ubuntu_instalador_fuso_horario.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: 'Selecione seu fuso horário'.
