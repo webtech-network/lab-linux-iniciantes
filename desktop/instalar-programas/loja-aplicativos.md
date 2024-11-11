@@ -18,13 +18,13 @@ Legenda: Exemplo de busca por aplicativo.
 
 Ao encontrar o aplicativo que deseja instalar, basta clicar em seu card, e a página do programa abrirá.
 
-<img src="../../imagens/ubuntu_loja_aplicativos_pagina_programa.png"/>
+<img src="../../imagens/ubuntu_loja_aplicativos_pagina_intellij.png"/>
 
 Legenda: Exemplo de página de programa
 
 Para instalar o programa, basta clicar no botão 'Instalar' ('Install') em verde.
 
-<img src="../../imagens/ubuntu_loja_aplicativos_pagina_programa_instalando.png"/>
+<img src="../../imagens/ubuntu_loja_aplicativos_pagina_intellij_instalando.png"/>
 
 Legenda: Exemplo de página de programa, com o programa sendo instalado.
 
