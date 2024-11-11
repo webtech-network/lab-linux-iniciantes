@@ -209,3 +209,9 @@ Legenda: Ubuntu com o programa de instalação com o título: "Atualização dis
 <img src="../../imagens/ubuntu_instalador_instalar_ubuntu.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: "Experimentar ou instalar o Ubuntu".
+
+##### STEP 4.8 - Em 'Tipo de instalação', selecione a opção 'Instalação interativa', e clique em 'Próximo'.
+
+<img src="../../imagens/ubuntu_instalador_tipo_instalacao.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: 'Tipo de instalação'.
