@@ -231,3 +231,9 @@ Legenda: Ubuntu com o programa de instalação com o título: 'Aplicativos e atu
 <img src="../../imagens/ubuntu_instalador_software_proprietario.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Optimize o seu computador'.
+
+<img src="../../imagens/ubuntu_instalador_software_proprietario_marcado.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: 'Optimize o seu computador' e opções selecionadas.
+
+##### STEP 4.10 - 
