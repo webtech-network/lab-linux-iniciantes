@@ -14,7 +14,35 @@ Para encontrar por AppImages, basta acessar: https://appimage.github.io/apps/
 
 ### Interface gráfica
 
-TODO
+Após baixado um arquivo AppImage, é necessário alterar a permissão dele para torná-lo executável.
+
+<img src="../../imagens/arquivo_appimage.png"/>
+
+Para isso, no gerenciador de arquivos, clique com o botão direito no arquivo baixado.
+
+No menu de contexto, clique em 'Propriedades'.
+
+<img src="../../imagens/arquivo_appimage_executar.png"/>
+
+Na janela de propriedades do arquivo baixado, vai na aba 'Permissões'.
+
+<img src="../../imagens/propriedades_appimage.png"/>
+
+<img src="../../imagens/propriedades_appimage_aba_permissoes_marcada.png"/>
+
+Na aba permissões, marque a checkbox 'Permitir execução do arquivo como programa.'
+
+E feche a janela de propriedades do arquivo.
+
+<img src="../../imagens/propriedades_appimage_permissoes.png"/>
+
+<img src="../../imagens/propriedades_appimage_permissoes_marcado.png"/>
+
+No gerenciador
+
+<img src="../../imagens/arquivo_appimage_executar.png"/>
+
+<img src="../../imagens/arquivo_appimage_executar_marcado.png"/>
 
 ### Linha de comando
 
