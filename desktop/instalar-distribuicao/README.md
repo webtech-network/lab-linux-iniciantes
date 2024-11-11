@@ -225,3 +225,9 @@ Caso deseja instalar ferramentas de escritório, utilitários, navegador web e j
 <img src="../../imagens/ubuntu_instalador_aplicativo_atualizacoes.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Aplicativos e atualizações'.
+
+##### STEP 4.10 - Em 'Optimize o seu computador', selecione 'Instalar drivers de terceiros para Wi-Fi e placas gráficas' e 'Baixar e instalar suporte para formato de mídia adicionais', e clique em 'Próximo'.
+
+<img src="../../imagens/ubuntu_instalador_software_proprietario.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: 'Optimize o seu computador'.
