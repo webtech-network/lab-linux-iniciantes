@@ -195,3 +195,13 @@ Caso o seu computador tenha conexão cabeada, marque a opção 'Usar conexão vi
 Caso não tenha conectividade com a Internet, marque a opção 'Não quero conectar a internet neste momento'.
 
 <img src="../../imagens/ubuntu_instalador_conectividade_internet.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: "Conecte-se a uma rede".
+
+##### STEP 4.6 - Atualização do instalador
+
+Caso o programa de instalação mostre a mensagem "Está disponível uma atualização para o instalador", clique em 'pular'.
+
+<img src="../../imagens/ubuntu_instalador_atualizacao_instalador.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: "Atualização disponível".
