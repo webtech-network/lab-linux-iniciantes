@@ -215,3 +215,13 @@ Legenda: Ubuntu com o programa de instalação com o título: "Experimentar ou i
 <img src="../../imagens/ubuntu_instalador_tipo_instalacao.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Tipo de instalação'.
+
+##### STEP 4.9 - Em 'Aplicativos e atualizações', selecione o tipo de instalação desejada, e clique em 'Próximo'.
+
+Caso deseja instalar apenas os programas essenciais, selecione 'Instalação padrão'.
+
+Caso deseja instalar ferramentas de escritório, utilitários, navegador web e jogos, selecione 'Instalação completa'.
+
+<img src="../../imagens/ubuntu_instalador_aplicativo_atualizacoes.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: 'Aplicativos e atualizações'.
