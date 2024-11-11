@@ -261,3 +261,9 @@ Legenda: Ubuntu com o programa de instalação com o título: 'Configurar sua co
 <img src="../../imagens/ubuntu_instalador_fuso_horario.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Selecione seu fuso horário'.
+
+##### STEP 4.14 - Em 'Pronto para instalar', verifique se as configurações estão corretes, e caso estejam, clique no botão 'Instalar'.
+
+<img src="../../imagens/ubuntu_instalador_confirmar_instalacao.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: 'Pronto para instalar'.
