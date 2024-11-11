@@ -249,3 +249,9 @@ Legenda: Ubuntu com o programa de instalação com o título: 'Tipo de instalaç
 <img src="../../imagens/ubuntu_instalador_tipo_instalacao_disco_particionamento_manual.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Particionamento manual'.
+
+##### STEP 4.12 - Em 'Configurar sua conta', digite seu nome, o nome do seu computador, o seu nome de usuário e a sua senha. Deixe desmarcado a opção 'Usar o Active Directory'. E clique em 'Próximo'.
+
+<img src="../../imagens/ubuntu_instalador_configurar_conta.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: 'Configurar sua conta'.
