@@ -236,4 +236,12 @@ Legenda: Ubuntu com o programa de instalação com o título: 'Optimize o seu co
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Optimize o seu computador' e opções selecionadas.
 
-##### STEP 4.10 - 
+##### STEP 4.11 - Em 'Tipo de Instalação', selecione onde deseja instalar o ubuntu, e clique em 'Próximo'.
+
+Caso deseja apagar o disco e instalar o Ubuntu, selecione a opção 'Apagar o disco e instalar o Ubuntu'.
+
+Caso deseja realizar o particionamento manual (mais avançado), marque a opção 'Particionamento manual'.
+
+<img src="../../imagens/ubuntu_instalador_tipo_instalacao_disco.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: 'Tipo de instalação'.
