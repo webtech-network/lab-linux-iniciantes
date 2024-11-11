@@ -170,13 +170,13 @@ Legenda: Ubuntu com o programa de instalação com o título 'Welcome to Ubuntu'
 
 Legenda: Ubuntu com o programa de instalação com o título 'Boas-Vindas ao Ubuntu' em Português do Brasil.
 
-##### STEP 4.3 - Em opções de acessibilidade, caso não possua nenhuma necessidade de acessibilidade, clique em 'Próximo'.
+##### STEP 4.3 - Em 'Acessibilidade', caso não possua nenhuma necessidade de acessibilidade, clique em 'Próximo'.
 
 <img src="../../imagens/ubuntu_instalador_acessibilidade.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título 'Acessibilidade'.
 
-##### STEP 4.4 - Em layout do teclado, selecione o layout do seu teclado.
+##### STEP 4.4 - Em 'Layout do teclado', selecione o layout do seu teclado.
 
 Caso o seu computador tenha sido comprado no Brasil, selecione o layout 'Português (Brasil)'. Caso o teclado de seu computador tenha outro layout selecione esse layout ou clique em 'Detectar'.
 
@@ -186,7 +186,7 @@ E no final na caixa de texto 'Digite aqui para testar o seu teclado', digite as 
 
 Legenda: Ubuntu com o programa de instalação com o título 'Layout do Teclado'.
 
-##### STEP 4.5 - Em conexão com à Internet, configure a sua conexão com a Internet.
+##### STEP 4.5 - Em 'Conecte-se a uma rede', configure a sua conexão com a Internet.
 
 Caso o seu computador tenha uma placa de rede wifi, selecione o nome da rede wifi que deseja utilizar para conectar com a Internet.
 
@@ -198,17 +198,13 @@ Caso não tenha conectividade com a Internet, marque a opção 'Não quero conec
 
 Legenda: Ubuntu com o programa de instalação com o título: "Conecte-se a uma rede".
 
-##### STEP 4.6 - Atualização do instalador
-
-Caso o programa de instalação mostre a mensagem "Está disponível uma atualização para o instalador", clique em 'Pular'.
+##### STEP 4.6 - Em 'Atualização disponível', clique em 'Pular'.
 
 <img src="../../imagens/ubuntu_instalador_atualizacao_instalador.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: "Atualização disponível".
 
-##### STEP 4.7 - Instalar o Ubuntu
-
-Selecione a opção 'Instalar Ubuntu', e clique em 'Próximo'.
+##### STEP 4.7 - Em 'Experimentar ou instalar o Ubuntu', selecione a opção 'Instalar Ubuntu', e clique em 'Próximo'.
 
 <img src="../../imagens/ubuntu_instalador_instalar_ubuntu.png"/>
 
