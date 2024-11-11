@@ -200,8 +200,16 @@ Legenda: Ubuntu com o programa de instalação com o título: "Conecte-se a uma 
 
 ##### STEP 4.6 - Atualização do instalador
 
-Caso o programa de instalação mostre a mensagem "Está disponível uma atualização para o instalador", clique em 'pular'.
+Caso o programa de instalação mostre a mensagem "Está disponível uma atualização para o instalador", clique em 'Pular'.
 
 <img src="../../imagens/ubuntu_instalador_atualizacao_instalador.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: "Atualização disponível".
+
+##### STEP 4.7 - Instalar o Ubuntu
+
+Selecione a opção 'Instalar Ubuntu', e clique em 'Próximo'.
+
+<img src="../../imagens/ubuntu_instalador_instalar_ubuntu.png"/>
+
+Legenda: Ubuntu com o programa de instalação com o título: "Experimentar ou instalar o Ubuntu".
