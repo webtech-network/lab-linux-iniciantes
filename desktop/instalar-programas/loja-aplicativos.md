@@ -46,11 +46,15 @@ Ao encontrar o aplicativo que deseja desinstalar, basta clicar no seu card, e a 
 
 <img src="../../imagens/ubuntu_loja_aplicativos_pagina_thunderbird.png"/>
 
-Legenda: Exemplo de página de programa
+Legenda: Exemplo de página de programa.
+
+Clique no botão "...", e depois em "Desinstalar".
 
 <img src="../../imagens/ubuntu_loja_aplicativos_pagina_thunderbird_desinstalar.png"/>
 
 Legenda: Exemplo de página de programa, mostrando o botão desinstalar.
+
+E aparecerá no local do botão "..." o botão "Desinstalando".
 
 <img src="../../imagens/ubuntu_loja_aplicativos_pagina_thunderbird_desinstalando.png"/>
 
