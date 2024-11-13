@@ -2,6 +2,10 @@
 
 ## Importante
 
+Cuidado: A instalação da distribuição apagará os dados do(s) disco(s) da máquina. Antes de realizar estes passos, faça uma cópia (Backup) dos dados da máquina em uma mídia externa **que não será utilizada durante instalação e nem durante a gravação da imagem de instalação**.
+
+Cuidado: A gravação da imagem de instalação no pendrive, resultará na perda de dados. Antes de realizar a gravação da imagem, faça uma cópia (Backup) dos dados do dispositivo USB em outra mídia externa **que não será utilizada durante instalação e nem durante a gravação da imagem de instalação**.
+
 ## Roadmap
 
 ### STEP 1 - Download da imagem de instalação
