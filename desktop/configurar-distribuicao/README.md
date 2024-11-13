@@ -55,3 +55,9 @@ Para isso, basta instalar o pacote ```unattended-upgrades```, por meio do gerenc
 ```
 sudo apt install unattended-upgrades
 ```
+
+## Personalizar o shell do Linux
+
+O terminal do Linux pode ser customizado.
+
+<img src="../../imagens/ubuntu_terminal.png"/>
