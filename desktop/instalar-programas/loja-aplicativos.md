@@ -58,4 +58,8 @@ Legenda: Exemplo de página de programa, sendo desinstalado.
 
 ## Atualização de aplicativo
 
-Para atualizar um aplicativo, basta procurá-lo na barra de busca, ou listá-lo no menu de gerenciamento de aplicativos.
+Para atualizar todos os aplicativos, acesse o menu de gerênciamento de aplicativos, e clique em 'Atualizar tudo'.
+
+<img src="../../imagens/ubuntu_loja_aplicativos_listar_instalados.png"/>
+
+<img src="../../imagens/ubuntu_loja_aplicativos_listar_instalados_atualizar_tudo_marcado.png"/>
