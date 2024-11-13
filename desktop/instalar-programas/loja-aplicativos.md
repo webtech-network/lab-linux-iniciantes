@@ -66,20 +66,32 @@ Para atualizar todos os aplicativos, acesse o menu de gerênciamento de aplicati
 
 <img src="../../imagens/ubuntu_loja_aplicativos_listar_instalados.png"/>
 
+Legenda: Menu de gerenciamento de aplicativos.
+
 <img src="../../imagens/ubuntu_loja_aplicativos_listar_instalados_atualizar_tudo_marcado.png"/>
+
+Legenda: Menu de gerenciamento de aplicativos, mostrando o botão 'Atualizar tudo'.
 
 Para atualizar um aplicativo específico, basta procurá-lo na barra de busca, ou listá-lo no menu de gerenciamento de aplicativos.
 
 <img src="../../imagens/ubuntu_loja_aplicativos_listar_instalados.png"/>
 
+Legenda: Menu de gerenciamento de aplicativos.
+
 Ao encontrar o aplicativo que deseja atualizar, basta clicar no seu card, e a sua página abrirá.
 
 <img src="../../imagens/ubuntu_loja_aplicativos_pagina_core.png"/>
+
+Legenda: Exemplo de página de programa.
 
 Clique no botão "...", e depois em "Atualizar".
 
 <img src="../../imagens/ubuntu_loja_aplicativos_pagina_core_atualizar.png"/>
 
+Legenda: Exemplo de página de programa, mostrando o botão atualizar.
+
 E aparecerá no local do botão "..." o botão "Atualizando".
 
 <img src="../../imagens/ubuntu_loja_aplicativos_pagina_core_atualizando.png"/>
+
+Legenda: Exemplo de página de programa, sendo atualizado.
