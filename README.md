@@ -10,10 +10,13 @@ facilidade de uso. Uma vez tendo dominado o Ubuntu, pode-se migrar para qualquer
 Tecnologias utilizadas neste laboratório.
 
 <div style="display: flex; gap: 10px;">
-    <img width="50px" src="icones/Canonical_Ubuntu.svg" alt="Logo da distribuição Linux Ubuntu"> 
-    <img width="50px" src="icones/snapcraft_db_brandmark_4x.webp" alt="Logo da Snap Store">
-    <img width="50px" src="icones/Flatpak_Logo.svg" alt="Logo do Flatpak">
-    <img width="50px" src="icones/appimage-logo3.svg" alt="Logo do AppImage">
+    <img height="50px" src="icones/Canonical_Ubuntu.svg" alt="Logo da distribuição Linux Ubuntu"> 
+    <img height="50px" src="icones/snapcraft_db_brandmark_4x.webp" alt="Logo da Snap Store">
+    <img height="50px" src="icones/Flatpak_Logo.svg" alt="Logo do Flatpak">
+    <img height="50px" src="icones/appimage-logo3.svg" alt="Logo do AppImage">
+    <img height="50px" src="icones/Ventoy.png" alt="Logo do Ventoy">
+    <img height="50px" src="icones/balenaEtcher_logo_white.svg" alt="Logo do Balena Etcher">
+    <img height="50px" src="icones/rufus-128.png" alt="Logo do Rufus">
 </div>
 
 ## Onde Aplicar
