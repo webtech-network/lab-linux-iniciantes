@@ -61,3 +61,43 @@ sudo apt install unattended-upgrades
 O terminal do Linux pode ser customizado.
 
 <img src="../../imagens/ubuntu_terminal.png"/>
+
+Legenda: Terminal padrão do Ubuntu.
+
+### Alterar as cores
+
+Para alterar as cores do terminal, no canto superior, clique no botão Opções, e um menu de contexto abrirá.
+
+<img src="../../imagens/ubuntu_terminal_opcoes_selecionado.png"/>
+
+Legenda: Opções do Terminal do Ubuntu.
+
+E depois clique no botão 'Preferências'. E uma nova janela se abrirá com as preferências do terminal.
+
+<img src="../../imagens/ubuntu_terminal_opcoes_preferencias_selecionado.png"/>
+
+Legenda: Menu de contexto de Opções do Terminal do Ubuntu, com 'Preferências' selecionado.
+
+Em baixo de 'Perfis', clique em 'Sem nome'.
+
+<img src="../../imagens/ubuntu_terminal_preferencias_geral_perfil_sem_nome_selecionado.png"/>
+
+Legenda: Preferências do Terminal, com 'Sem nome' de 'Perfils' selecionado.
+
+Clique na aba 'Cores'.
+
+<img src="../../imagens/ubuntu_terminal_preferencias_perfil_sem_nome_cores_selecionado.png"/>
+
+Legenda: Preferências do Terminal, no perfil 'Sem nome', com a aba 'Cores' selecionada.
+
+Neste menu é possível alterar as cores do terminal do Ubuntu. Nele é possível alterar a cor do plano de fundo. Além da palheta de cores do texto.
+
+<img src="../../imagens/ubuntu_terminal_preferencias_perfil_sem_nome_cores.png"/>
+
+Legenda: Opções de cores no Terminal do Ubuntu para o perfil 'Sem nome'
+
+Ao desmarcar a opção 'Usar cores do tema do sistema', e em 'Esquemas embutidos' selecionar 'GNOME Claro' obtém-se o seguinte tema:
+
+<img src="../../imagens/ubuntu_terminal_branco.png"/>
+
+Legenda: Terminal do Ubuntu com o tema 'GNOME claro'.
