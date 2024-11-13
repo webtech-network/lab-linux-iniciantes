@@ -42,6 +42,10 @@ Nessa página será mostrado todos os aplicativos instalados. E caso algum aplic
 
 Para desinstalar um aplicativo, basta procurá-lo na barra de busca, ou listá-lo no menu de gerenciamento de aplicativos.
 
+<img src="../../imagens/ubuntu_loja_aplicativos_listar_instalados.png"/>
+
+Legenda: Menu de gerenciamento de aplicativos.
+
 Ao encontrar o aplicativo que deseja desinstalar, basta clicar no seu card, e a sua página abrirá.
 
 <img src="../../imagens/ubuntu_loja_aplicativos_pagina_thunderbird.png"/>
