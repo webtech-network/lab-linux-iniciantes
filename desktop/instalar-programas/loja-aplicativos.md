@@ -22,7 +22,7 @@ Ao encontrar o aplicativo que deseja instalar, basta clicar em seu card, e a pá
 
 Legenda: Exemplo de página de programa
 
-Para instalar o programa, basta clicar no botão 'Instalar' ('Install') em verde.
+Para instalar o programa, basta clicar no botão 'Instalar' em verde.
 
 <img src="../../imagens/ubuntu_loja_aplicativos_pagina_intellij_instalando.png"/>
 
