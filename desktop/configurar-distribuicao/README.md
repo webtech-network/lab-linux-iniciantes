@@ -101,3 +101,47 @@ Ao desmarcar a opção 'Usar cores do tema do sistema', e em 'Esquemas embutidos
 <img src="../../imagens/ubuntu_terminal_branco.png"/>
 
 Legenda: Terminal do Ubuntu com o tema 'GNOME claro'.
+
+### Alterar mensagem do terminal
+
+Para alterar a mensagem mostrada no terminal, abra em um editor de texto o arquivo ```~/.bashrc```.
+
+Exemplo: Para utilizar o Editor de Texto do Gnome, no terminal, digite:
+
+```
+gnome-text-editor ~/.bashrc
+```
+
+<img src="../../imagens/ubuntu_gnome_text_editor.png"/>
+
+Legenda: Arquivo .bashrc aberto no Gnome Text Editor.
+
+Ao abrir o arquivo .bashrc, altere a variável ```PS1``` para a mensagem que deseja exibir.
+
+#### Exemplo: Exibindo "olá mundo" no terminal
+
+Adicione esta linha no final do arquivo ```.bashrc```:
+
+```
+PS1="olá mundo";
+```
+
+O resultado será:
+
+<img src="../../imagens/ubuntu_terminal_ola_mundo.png"/>
+
+Legenda: Resultado da alteração do valor da variável PS1 para "olá mundo".
+
+#### Exemplo: Exibindo o caminho atual, com o usuário atual e o nome do computador
+
+Adicione esta linha no final do arquivo ```.bashrc```:
+
+```
+PS1="[$(whoami)@$(hostname) $(pwd)]$ ";
+```
+
+O resultado será:
+
+<img src="../../imagens/ubuntu_terminal_usuario_nome_computador_pasta_atual.png"/>
+
+Legenda: Resultado da alteração do valor da variável PS1 para "[$(whoami)@$(hostname) $(pwd)]$ ".
