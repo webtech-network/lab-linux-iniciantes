@@ -145,3 +145,61 @@ O resultado será:
 <img src="../../imagens/ubuntu_terminal_usuario_nome_computador_pasta_atual.png"/>
 
 Legenda: Resultado da alteração do valor da variável PS1 para "[$(whoami)@$(hostname) $(pwd)]$ ".
+
+### Alterar o shell
+
+Nas distribuições Linux existem diferentes shells. Por padrão o Ubuntu vem com o bash instalado, mas é possível instalar e utilizar outros shells.
+
+#### Instalar o Fish
+
+O Fish é um shell mais "inteligente" e "amigável", que consegue sugerir comandos, facilitando o uso do terminal.
+
+<img src="../../imagens/ubuntu_terminal_fish_sugerindo_comando_ls.png"/>
+
+Legenda: Shell fish sugerindo o comando 'ls' para 'l' digitado.
+
+Ele está disponível para vários sistemas operacionais, dentre eles o Linux.
+
+Para mais informações, acesse: https://fishshell.com/
+
+##### Instalando o fish
+
+No terminal, digite:
+
+```
+sudo apt install fish -y
+```
+
+##### Executando o fish
+
+No terminal, digite:
+
+```
+fish
+```
+
+##### Transformando o fish no shell padrão
+
+Caso deseja transformar o fish no shell padrão, siga estes passos.
+
+No terminal, digite:
+
+```
+chsh -s "$(which fish)"
+```
+
+Para aplicar a configuração é necessário realizar logout (Encerrar sessão).
+
+<img src="../../imagens/ubuntu_terminal_fish.png"/>
+
+Legenda: Shell fish como o shell padrão.
+
+##### Voltar o bash como o shell padrão
+
+Caso deseja voltar o shell padrão para o bash, siga estes passos.
+
+No terminal, digite:
+
+```
+chsh -s "$(which bash)"
+```
