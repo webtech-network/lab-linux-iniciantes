@@ -256,6 +256,14 @@ Legenda: Ubuntu com o programa de instalação com o título: 'Tipo de instalaç
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Particionamento manual'.
 
+<img src="../../imagens/ubuntu_instalador_software_proprietario_dualboot.png"/>
+
+Legenda: Ubuntu com o programa de instalação, mostrando a opção 'Instalar Ubuntu junto com o Windows Boot Manager'.
+
+<img src="../../imagens/ubuntu_instalador_software_proprietario_dualboot_tamanho.png"/>
+
+Legenda: Ubuntu com o programa de instalação, mostrando como deseja dividir o espaço entre o Ubuntu e o Windows.
+
 ##### STEP 4.12 - Em 'Configurar sua conta', digite seu nome, o nome do seu computador, o seu nome de usuário e a sua senha. Deixe desmarcado a opção 'Usar o Active Directory'. E clique em 'Próximo'.
 
 <img src="../../imagens/ubuntu_instalador_configurar_conta.png"/>
