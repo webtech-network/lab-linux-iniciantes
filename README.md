@@ -41,6 +41,8 @@ Este projeto pode ser aplicado em diversas situações:
 
 ### STEP 4 - Dicas de Utilização
 
+[Dicas de utilização](desktop/dicas/README.md)
+
 ## Contato
 
 Henrique Mendonça Castelar Campos - [henriquemendonacastelar@gmail.com](mailto:henriquemendonacastelar@gmail.com)
