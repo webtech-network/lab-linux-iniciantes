@@ -43,6 +43,10 @@ Este projeto pode ser aplicado em diversas situações:
 
 [Dicas de utilização](desktop/dicas/README.md)
 
+### Desafio
+
+[Desafio](desafio/README.md)
+
 ## Contato
 
 Henrique Mendonça Castelar Campos - [henriquemendonacastelar@gmail.com](mailto:henriquemendonacastelar@gmail.com)
