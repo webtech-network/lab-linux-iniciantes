@@ -10,13 +10,14 @@ facilidade de uso. Uma vez tendo dominado o Ubuntu, pode-se migrar para qualquer
 Tecnologias utilizadas neste laboratório.
 
 <div style="display: flex; gap: 10px;">
-    <a href="https://ubuntu.com"><img height="50px" src="icones/Canonical_Ubuntu.svg" alt="Logo da distribuição Linux Ubuntu"></a> 
-    <a href="https://snapcraft.io"><img height="50px" src="icones/snapcraft_db_brandmark_4x.webp" alt="Logo da Snap Store"></a>
-    <a href="https://flatpak.org"><img height="50px" src="icones/Flatpak_Logo.svg" alt="Logo do Flatpak"></a>
-    <a href="https://appimage.org"><img height="50px" src="icones/appimage-logo3.svg" alt="Logo do AppImage"></a>
+    <a href="https://ubuntu.com"><img height="50px" src="icones/Canonical_Ubuntu.svg" alt="Logo da distribuição Linux Ubuntu"></a>
     <a href="https://www.ventoy.net"><img height="50px" src="icones/Ventoy.png" alt="Logo do Ventoy"></a>
     <a href="https://etcher.balena.io"><img height="50px" src="icones/balenaEtcher_logo_white.svg" alt="Logo do Balena Etcher"></a>
     <a href="https://rufus.ie"><img height="50px" src="icones/rufus-128.png" alt="Logo do Rufus"></a>
+    <a href="https://snapcraft.io"><img height="50px" src="icones/snapcraft_db_brandmark_4x.webp" alt="Logo da Snap Store"></a>
+    <a href="https://flatpak.org"><img height="50px" src="icones/Flatpak_Logo.svg" alt="Logo do Flatpak"></a>
+    <a href="https://appimage.org"><img height="50px" src="icones/appimage-logo3.svg" alt="Logo do AppImage"></a>
+    <a href="https://fishshell.com/"><img height="50px" src="icones/Terminal_Logo2_CRT_Flat.png" alt="Logo do Fish"></a>
 </div>
 
 ## Onde Aplicar
