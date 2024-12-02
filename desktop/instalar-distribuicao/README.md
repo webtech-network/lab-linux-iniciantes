@@ -248,6 +248,8 @@ Caso deseja apagar o disco e instalar o Ubuntu, selecione a opção 'Apagar o di
 
 Caso deseja realizar o particionamento manual (mais avançado), marque a opção 'Particionamento manual'.
 
+Caso deseja instalar o Ubuntu junto do Windows, marque a opção 'Instalar Ubuntu junto com Windows Boot Manager'.
+
 <img src="../../imagens/ubuntu_instalador_tipo_instalacao_disco.png"/>
 
 Legenda: Ubuntu com o programa de instalação com o título: 'Tipo de instalação'.
@@ -259,6 +261,12 @@ Legenda: Ubuntu com o programa de instalação com o título: 'Particionamento m
 <img src="../../imagens/ubuntu_instalador_software_proprietario_dualboot.png"/>
 
 Legenda: Ubuntu com o programa de instalação, mostrando a opção 'Instalar Ubuntu junto com o Windows Boot Manager'.
+
+###### Instalar o Ubuntu com o Windows em dual boot
+
+Selecione o tamanho que deseja que a partição do Linux tenha. E clique em próximo.
+
+Cuidado: A modificação do particionamento para instalação do Ubuntu e Windows em dual boot pode falhar, resultando em perda de dados. Antes de realizar este procedimento, faça uma cópia (Backup) dos dados da máquina em uma mídia externa **que não será utilizada durante instalação e nem durante a gravação da imagem de instalação**.
 
 <img src="../../imagens/ubuntu_instalador_software_proprietario_dualboot_tamanho.png"/>
 
